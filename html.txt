@@ -1,0 +1,32 @@
+<ol id="realTimeRankFavorite" class="asideBoxRank">
+	<li class="rank01">
+        <a onclick="nclk_v2(event,'rnk*p.cont','703846','1')" href="/webtoon/detail.nhn?titleId=703846&amp;no=163" title="여신강림-158화">여신강림-158화</a>
+        <span class="rankBox">
+            <img src="https://ssl.pstatic.net/static/comic/images/migration/common/arrow_no.gif" title="변동없음" alt="변동없음" width="7" height="10"> 0
+        </span>
+	</li>
+	<li class="rank02">
+		<a onclick="nclk_v2(event,'rnk*p.cont','703852','2')" href="/webtoon/detail.nhn?titleId=703852&amp;no=150" title="바른연애 길잡이-150">바른연애 길잡이-150</a>
+		<span class="rankBox">
+			<img src="https://ssl.pstatic.net/static/comic/images/migration/common/arrow_no.gif" title="변동없음" alt="변동없음" width="7" height="10"> 0
+		</span>
+	</li>
+    <li class="rank03">
+		<a onclick="nclk_v2(event,'rnk*p.cont','743139','3')" href="/webtoon/detail.nhn?titleId=743139&amp;no=53" title="한림체육관-53화">한림체육관-53화</a>
+		<span class="rankBox">
+			<img src="https://ssl.pstatic.net/static/comic/images/migration/common/arrow_no.gif" title="변동없음" alt="변동없음" width="7" height="10"> 0
+		</span>
+	</li>
+    <li class="rank04">
+		<a onclick="nclk_v2(event,'rnk*p.cont','702608','4')" href="/webtoon/detail.nhn?titleId=702608&amp;no=183" title="랜덤채팅의 그녀!-183. 우린 지금 물 위를 가고 있어">랜덤채팅의 그녀!-183. 우린 지금 물 위를 가고 있어</a>
+		<span class="rankBox">
+			<img src="https://ssl.pstatic.net/static/comic/images/migration/common/arrow_up.gif" title="순위상승" alt="순위상승" width="7" height="10">1
+		</span>
+	</li>
+	<li class="rank05">
+		<a onclick="nclk_v2(event,'rnk*p.cont','738487','5')" href="/webtoon/detail.nhn?titleId=738487&amp;no=74" title="하루만 네가 되고 싶어-74. 역사에 남을 재판(1) ">하루만 네가 되고 싶어-74. 역사에 남을 재판(1)</a>
+		<span class="rankBox">
+			<img src="https://ssl.pstatic.net/static/comic/images/migration/common/arrow_down.gif" title="순위하락" alt="순위하락" width="7" height="10">1
+		</span>
+	</li>
+</ol>
